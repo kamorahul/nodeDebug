@@ -1,0 +1,16 @@
+{
+  "name": "nodeDebug",
+  "version": "0.0.1",
+  "description": "node debug example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "debug",
+    "practice"
+  ],
+  "author": "Rahul Kamboj",
+  "license": "BSD-2-Clause"
+}
